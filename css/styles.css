@@ -141,10 +141,10 @@ a {
 
 .first-section {
     padding: 188px 0;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/background.jpg);
     background-color: #2e2f42;
     color: white;
     text-align: center;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/background.jpg);
     max-width: 1440px;
     background-repeat: no-repeat;
     background-position: center;
