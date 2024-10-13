@@ -139,7 +139,7 @@ a {
     color: #404bbf;
 }
 
-.first-section-container {
+.first-section {
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/background.jpg);
     background-size: cover;
     max-width: 1440px;
