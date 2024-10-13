@@ -164,7 +164,7 @@ a {
 }
 
 .first-section-button {
-
+    display: block;
     min-width: 169px;
     height: 56px;
     border: none;
