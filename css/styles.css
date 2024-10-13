@@ -93,19 +93,19 @@ a {
 
 .current {
     position: relative;
-    color: значення;
+    color: #404bbf;
 }
 
-.nav-link.current::after {
+.nav-link .current::after {
     content: '';
     position: absolute;
     left: 0;
     bottom: -1px;
     display: block;
     width: 100%;
-    height: значення;
-    border-radius: значення;
-    background-color: значення;
+    height: 4px;
+    border-radius: 2px;
+    background-color: #404bbf;
 }
 
 .nav-item {
