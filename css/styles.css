@@ -409,3 +409,11 @@ img {
     align-items: center;
     justify-content: center;
 }
+
+.social-media-link:hover, .social-media-link:focus {
+    background-color: #31d0aa;
+}
+
+.social-media-svg {
+    fill: #f4f4fd;
+}
